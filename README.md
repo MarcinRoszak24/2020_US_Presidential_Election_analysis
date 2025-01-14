@@ -1,2 +1,2 @@
-# MR_us_presid_elect_2020_analysis
-US Presidential Election 2020 Analysis
+# 2020_US_Presidential_election_analysis
+2020 US Presidential Election analysis in SQL; outcomes visualizing in Tableau
