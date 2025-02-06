@@ -1,8 +1,8 @@
-2020 US Presidential Election analysis in SQL&Tableau;
+# 2020 US Presidential Election analysis in SQL&Tableau;
 
-# data source: https://www.kaggle.com/datasets/unanimad/us-election-2020
+data source: https://www.kaggle.com/datasets/unanimad/us-election-2020
 
-# dashboard: https://public.tableau.com/app/profile/marcin.roszak/viz/USA_President_Elections_mini_project_SQL_Tableau/US2020PresidentialElectionsAnalysis
+dashboard: https://public.tableau.com/app/profile/marcin.roszak/viz/USA_President_Elections_mini_project_SQL_Tableau/US2020PresidentialElectionsAnalysis
 
 # CONCLUSIONS FROM THE ANALYSIS
 After analyzing the data, it is clear that if victories in counties were the deciding factor, the 2020 election should have been won by the Republicans and Donald Trump, who achieved this feat in nearly 1,800 counties. However, the issue is that these counties are much less populated, and as a result, the states they belong to have fewer electoral votes. This clearly indicates that winning the U.S. presidential election hinges on securing victories in the largest cities.
