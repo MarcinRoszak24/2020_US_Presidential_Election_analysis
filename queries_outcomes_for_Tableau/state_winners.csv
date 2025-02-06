@@ -1,0 +1,52 @@
+"state","party","candidate","winner_percentage_of_all_votes","opponent_percentage_of_all_votes","margin","state_symphaty","if_candidate_won","electoral_votes"
+Alabama,REP,Donald Trump,62.03,36.57,25.46,RED STATE,true,9
+Alaska,REP,Donald Trump,52.82,42.67,10.15,RED STATE,true,3
+Arizona,DEM,Joe Biden,49.36,49.06,0.30,SWING STATE,true,11
+Arkansas,REP,Donald Trump,62.40,34.78,27.62,RED STATE,true,6
+California,DEM,Joe Biden,63.50,34.33,29.17,BLUE STATE,true,55
+Colorado,DEM,Joe Biden,55.40,41.90,13.50,BLUE STATE,true,9
+Connecticut,DEM,Joe Biden,59.24,39.21,20.03,BLUE STATE,true,7
+Delaware,DEM,Joe Biden,58.78,39.80,18.98,BLUE STATE,true,3
+District of Columbia,DEM,Joe Biden,92.15,5.40,86.75,BLUE STATE,true,3
+Florida,REP,Donald Trump,51.22,47.86,3.36,SWING STATE,true,29
+Georgia,DEM,Joe Biden,49.50,49.26,0.24,SWING STATE,true,16
+Hawaii,DEM,Joe Biden,63.73,34.27,29.46,BLUE STATE,true,4
+Idaho,REP,Donald Trump,63.83,33.06,30.77,RED STATE,true,4
+Illinois,DEM,Joe Biden,70.43,46.76,23.67,BLUE STATE,true,20
+Indiana,REP,Donald Trump,57.03,40.96,16.07,RED STATE,true,11
+Iowa,REP,Donald Trump,53.09,44.89,8.20,RED STATE,true,6
+Kansas,REP,Donald Trump,55.12,40.62,14.50,RED STATE,true,6
+Kentucky,REP,Donald Trump,62.09,36.15,25.94,RED STATE,true,8
+Louisiana,REP,Donald Trump,58.46,39.85,18.61,RED STATE,true,8
+Maine,DEM,Joe Biden,52.53,43.92,8.61,BLUE STATE,true,4
+Maryland,DEM,Joe Biden,65.36,32.15,33.21,BLUE STATE,true,10
+Massachusetts,DEM,Joe Biden,65.60,32.14,33.46,BLUE STATE,true,11
+Michigan,DEM,Joe Biden,50.62,47.84,2.78,SWING STATE,true,16
+Minnesota,DEM,Joe Biden,52.40,45.28,7.12,BLUE STATE,true,10
+Mississippi,REP,Donald Trump,57.54,41.01,16.53,RED STATE,true,6
+Missouri,REP,Donald Trump,56.80,41.41,15.39,RED STATE,true,10
+Montana,REP,Donald Trump,56.72,40.41,16.31,RED STATE,true,3
+Nebraska,REP,Donald Trump,58.22,39.17,19.05,RED STATE,true,5
+Nevada,DEM,Joe Biden,50.06,47.67,2.39,SWING STATE,true,6
+New Hampshire,DEM,Joe Biden,52.82,45.46,7.36,BLUE STATE,true,4
+New Jersey,DEM,Joe Biden,57.15,41.26,15.89,BLUE STATE,true,14
+New Mexico,DEM,Joe Biden,54.29,43.50,10.79,BLUE STATE,true,5
+New York,DEM,Joe Biden,60.88,37.73,23.15,BLUE STATE,true,29
+North Carolina,REP,Donald Trump,49.93,48.59,1.34,SWING STATE,true,15
+North Dakota,REP,Donald Trump,65.11,31.76,33.35,RED STATE,true,3
+Ohio,REP,Donald Trump,53.27,45.24,8.03,RED STATE,true,18
+Oklahoma,REP,Donald Trump,65.37,32.29,33.08,RED STATE,true,7
+Oregon,DEM,Joe Biden,56.45,40.37,16.08,BLUE STATE,true,7
+Pennsylvania,DEM,Joe Biden,49.96,48.78,1.18,SWING STATE,true,20
+Rhode Island,DEM,Joe Biden,59.14,38.60,20.54,BLUE STATE,true,4
+South Carolina,REP,Donald Trump,55.11,43.43,11.68,RED STATE,true,9
+South Dakota,REP,Donald Trump,61.77,35.61,26.16,RED STATE,true,3
+Tennessee,REP,Donald Trump,60.66,37.45,23.21,RED STATE,true,11
+Texas,REP,Donald Trump,52.04,46.47,5.57,RED STATE,true,38
+Utah,REP,Donald Trump,58.13,37.65,20.48,RED STATE,true,6
+Vermont,DEM,Joe Biden,66.09,30.67,35.42,BLUE STATE,true,3
+Virginia,DEM,Joe Biden,54.11,44.00,10.11,BLUE STATE,true,13
+Washington,DEM,Joe Biden,57.97,38.77,19.20,BLUE STATE,true,12
+West Virginia,REP,Donald Trump,68.63,29.70,38.93,RED STATE,true,5
+Wisconsin,DEM,Joe Biden,49.45,48.83,0.62,SWING STATE,true,10
+Wyoming,REP,Donald Trump,69.94,26.55,43.39,RED STATE,true,3
